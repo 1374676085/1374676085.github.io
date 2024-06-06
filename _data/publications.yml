@@ -50,3 +50,20 @@ main:
             }
     image: ./assets/teaser/acm-tosn.png 
     notes: CCF-B
+
+    - title: A Cooperative Secure Routing Protocol based on Reputation System for Ad Hoc Networks
+    authors: Yihui Zhang; li Xu; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: J. Commun. 
+    journal: JOURNAL OF COMMUNICATIONS <strong>(J. Commun.)</strong>, 2024.
+    pdf: https://www.jocm.us/uploadfile/2013/0607/20130607023933568.pdf
+    bibtex: | 
+            @article{zhang2008cooperative,
+              title={A Cooperative Secure Routing Protocol based on Reputation System for Ad Hoc Networks.},
+              author={Zhang, Yihui and Xu, Li and Wang, Xiaoding},
+              journal={J. Commun.},
+              volume={3},
+              number={6},
+              pages={43--50},
+              year={2008}
+            }
+    image: ./assets/teaser/1.png
