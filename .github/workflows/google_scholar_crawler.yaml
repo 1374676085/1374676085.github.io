@@ -20,7 +20,7 @@ jobs:
         python3 main.py
         cd ./results
         git init
-        git config --local user.name "${ACTOR}"
+        git config --local user.name "1374676085"
         git config --local user.email "1374676085@qq.com"
         export remote_repo="https://${ACTOR}:${{ secrets.TOKEN }}@github.com/${REPOSITORY}.git"
         git add *.json
