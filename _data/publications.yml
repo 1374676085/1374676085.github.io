@@ -51,7 +51,7 @@ main:
     image: ./assets/teaser/acm-tosn.png 
     notes: CCF-B
 
-    - title: A Cooperative Secure Routing Protocol based on Reputation System for Ad Hoc Networks
+  - title: A Cooperative Secure Routing Protocol based on Reputation System for Ad Hoc Networks
     authors: Yihui Zhang; li Xu; <strong><u>Xiaoding Wang</u></strong>
     journal_short: J. Commun. 
     journal: JOURNAL OF COMMUNICATIONS <strong>(J. Commun.)</strong>, 2024.
