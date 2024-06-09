@@ -102,3 +102,119 @@ main:
             organization={IEEE}
             }
     image: ./assets/teaser/2.png 
+
+  - title: Restoration Strategy Based on Optimal Relay Node Placement in Wireless Sensor Networks
+    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou
+    journal_short: IJDSN
+    journal: International Journal of Distributed Sensor Networks
+    doi: https://doi.org/10.1155/2015/409085
+    pdf: ./assets/files/3.pdf
+    bibtex: |
+            @article{wang2015restoration,
+            title={Restoration strategy based on optimal relay node placement in wireless sensor networks},
+            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming},
+            journal={International Journal of Distributed Sensor Networks},
+            volume={11},
+            number={7},
+            pages={409085},
+            year={2015},
+            publisher={SAGE Publications Sage UK: London, England}
+            }
+    image: ./assets/teaser/3.png 
+    notes: SCI-4区
+
+  - title: A Resolving Set based Algorithm for Fault Identification in Wireless Mesh Networks
+    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou; Joseph K. Liu
+    journal_short: J.UCS
+    journal: Journal of Universal Computer Science
+    doi: https://www.jucs.org/jucs_21_3/a_resolving_set_based/jucs_21_03_0384_0405_wang.pdf
+    pdf: ./assets/files/4.pdf
+    bibtex: |
+            @article{wang2015resolving,
+            title={A resolving set based algorithm for fault identification in wireless mesh networks},
+            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming and Liu, Joseph K},
+            journal={Journal of Universal Computer Science},
+            volume={21},
+            number={3},
+            pages={384--405},
+            year={2015},
+            publisher={Graz University of Technology}
+            }
+    image: ./assets/teaser/4.png 
+    notes: SCI-4区
+
+  - title: A Privacy-Preserving Approach Based on Graph Partition for Uncertain Trajectory Publishing
+    authors: Jianchuan Xiao; Li Xu; Limei Lin; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: ISPDC
+    journal: 2016 15th International Symposium on Parallel and Distributed Computing <strong>(ISPDC))</strong>
+    doi: https://doi.org/10.1109/ispdc.2016.48
+    pdf: ./assets/files/5.pdf
+    bibtex: |
+            @inproceedings{xiao2016privacy,
+            title={A privacy-preserving approach based on graph partition for uncertain trajectory publishing},
+            author={Xiao, Jianchuan and Xu, Li and Lin, Limei and Wang, Xiaoding},
+            booktitle={2016 15th International Symposium on Parallel and Distributed Computing (ISPDC)},
+            pages={285--290},
+            year={2016},
+            organization={IEEE}
+            }
+    image: ./assets/teaser/5.png 
+
+  - title: Hybrid Recovery Strategy Based on Random Terrain in Wireless Sensor Networks
+    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou; Wei Wu
+    journal_short: J.UCS
+    journal: SCI Programming
+    doi: https://doi.org/10.1155/2017/5807289
+    pdf: ./assets/files/6.pdf
+    bibtex: |
+            @article{wang2017hybrid,
+            title={Hybrid recovery strategy based on random terrain in wireless sensor networks},
+            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming and Wu, Wei},
+            journal={Scientific Programming},
+            volume={2017},
+            number={1},
+            pages={5807289},
+            year={2017},
+            publisher={Wiley Online Library}
+            }
+    image: ./assets/teaser/6.png 
+    notes: SCI-4区
+
+  - title: A Straight Skeleton Based Connectivity Restoration Strategy in the Presence of Obstacles for WSNs
+    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou
+    journal_short: Sensors
+    journal: Sensors
+    doi: https://doi.org/10.3390/s17102299
+    pdf: ./assets/files/7.pdf
+    bibtex: |
+            @article{wang2017straight,
+            title={A straight skeleton based connectivity restoration strategy in the presence of obstacles for WSNs},
+            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming},
+            journal={Sensors},
+            volume={17},
+            number={10},
+            pages={2299},
+            year={2017},
+            publisher={MDPI}
+            }
+    image: ./assets/teaser/7.png 
+    notes: SCI-3区
+
+  - title: Extra diagnosability and good-neighbor diagnosability of n-dimensional alternating group graph AG(n) under the PMC model
+    authors: Yanze Huang; Limei Lin; Li Xu; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: Theor Comput Sci
+    journal: Theoretical Computer Science
+    doi: https://doi.org/10.1016/j.tcs.2019.05.034
+    pdf: ./assets/files/8.pdf
+    bibtex: |
+            @article{huang2019extra,
+            title={Extra diagnosability and good-neighbor diagnosability of n-dimensional alternating group graph AGn under the PMC model},
+            author={Huang, Yanze and Lin, Limei and Xu, Li and Wang, Xiaoding},
+            journal={Theoretical Computer Science},
+            volume={795},
+            pages={36--49},
+            year={2019},
+            publisher={Elsevier}
+            }
+    image: ./assets/teaser/8.png 
+    notes: SCI-4区
