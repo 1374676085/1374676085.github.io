@@ -218,3 +218,93 @@ main:
             }
     image: ./assets/teaser/8.png 
     notes: SCI-4区
+
+  - title: Rollout algorithm for light-weight physical-layer authentication in cognitive radio networks
+    authors: Shengnan Yan; <strong><u>Xiaoding Wang</u></strong>; Li Xu 
+    journal_short: IET COMMUN
+    journal: IET Communications
+    doi: https://doi.org/10.1049/iet-com.2019.1275
+    pdf: ./assets/files/9.pdf
+    bibtex: |
+            @article{yan2020rollout,
+            title={Rollout algorithm for light-weight physical-layer authentication in cognitive radio networks},
+            author={Yan, Shengnan and Wang, Xiaoding and Xu, Li},
+            journal={IET Communications},
+            volume={14},
+            number={18},
+            pages={3128--3134},
+            year={2020},
+            publisher={Wiley Online Library}
+            }
+    image: ./assets/teaser/9.png 
+    notes: SCI-4区
+
+  - title: Restricted connectivity and good-neighbor diagnosability of split-star networks
+    authors: Limei Lin; Yanze Huang; <strong><u>Xiaoding Wang</u></strong>; Li Xu
+    journal_short: Theor Comput Sci
+    journal: Theoretical Computer Science
+    doi: https://doi.org/10.1016/j.tcs.2020.04.015
+    pdf: ./assets/files/10.pdf
+    bibtex: |
+            @article{lin2020restricted,
+            title={Restricted connectivity and good-neighbor diagnosability of split-star networks},
+            author={Lin, Limei and Huang, Yanze and Wang, Xiaoding and Xu, Li},
+            journal={Theoretical Computer Science},
+            volume={824},
+            pages={81--91},
+            year={2020},
+            publisher={Elsevier}
+            }
+    image: ./assets/teaser/10.png 
+    notes: SCI-4区
+
+  - title: Multi-layer Access Control Mechanism based on Blockchain for Mobile Edge Computing
+    authors: YiChen Hou; WenXin Liu; Hui Lin; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: ISPA/BDCloud/SocialCom/SustainCom
+    journal: Ieee Int Conf on Parallel & Distributed Processing with Applications, Ubiquitous Computing & Communications, Big Data & Cloud Computing, Social Computing & Networking, Sustainable Computing & Communications
+    doi: https://doi.org/10.1109/ispa-bdcloud-socialcom-sustaincom51426.2020.00061
+    pdf: ./assets/files/11.pdf
+    bibtex: |
+            @inproceedings{hou2020multi,
+            title={Multi-layer access control mechanism based on blockchain for mobile edge computing},
+            author={Hou, YiChen and Liu, WenXin and Lin, Hui and Wang, XiaoDing},
+            booktitle={2020 IEEE Intl Conf on Parallel \& Distributed Processing with Applications, Big Data \& Cloud Computing, Sustainable Computing \& Communications, Social Computing \& Networking (ISPA/BDCloud/SocialCom/SustainCom)},
+            pages={285--291},
+            year={2020},
+            organization={IEEE}
+            }
+    image: ./assets/teaser/11.png 
+
+  - title: Learning-Based IoT Data Aggregation for Disaster Scenarios
+    authors: Min Peng; Sahil Garg; <strong><u>Xiaoding Wang</u></strong>; Hui Lin; M. Shamim Hossain
+    journal_short: ACCESS
+    journal: IEEE Access
+    doi: https://doi.org/10.1109/access.2020.3008289
+    pdf: ./assets/files/12.pdf
+    bibtex: |
+            @article{peng2020learning,
+            title={Learning-based IoT data aggregation for disaster scenarios},
+            author={Peng, Min and Garg, Sahil and Wang, Xiaoding and Bradai, Abbas and Lin, Hui and Hossain, M Shamim},
+            journal={IEEE Access},
+            volume={8},
+            pages={128490--128497},
+            year={2020},
+            publisher={IEEE}
+            }
+    image: ./assets/teaser/12.png 
+    notes: SCI-3区
+
+  - title: An intelligent UAV based data aggregation strategy for IoT after disaster scenarios
+    authors: <strong><u>Xiaoding Wang</u></strong>; Jia Hu; Hui Lin
+    journal: "DroneCom: Proceedings of the MobiCom Workshop on Drone Assisted Wireless Communications for 5G and Beyond"
+    doi: https://doi.org/10.1145/3414045.3415940
+    pdf: ./assets/files/13.pdf
+    bibtex: |
+            @inproceedings{wang2020intelligent,
+            title={An intelligent UAV based data aggregation strategy for IoT after disaster scenarios},
+            author={Wang, Xiaoding and Hu, Jia and Lin, Hui},
+            booktitle={Proceedings of the 2nd ACM MobiCom Workshop on Drone Assisted Wireless Communications for 5G and beyond},
+            pages={97--101},
+            year={2020}
+            }
+    image: ./assets/teaser/13.png 
