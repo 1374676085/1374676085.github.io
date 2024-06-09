@@ -41,7 +41,7 @@ main:
     journal_short: ACM-TOSN
     journal: ACM Transactions on Sensor Networks <strong>(TOSN)</strong>, 2023.
     doi: https://doi.org/10.1145/3631608
-    pdf: ./assets/files/3.pdf
+    pdf: ./assets/files/1000.pdf
     bibtex: |
             @article{liu2023gsaa,
             title={GSAA: A Novel Graph Spatiotemporal Attention Algorithm for Smart City Traffic Prediction},
@@ -68,4 +68,37 @@ main:
               pages={43--50},
               year={2008}
             }
-    image: ./assets/teaser/1.png
+    image: ./assets/teaser/100.png
+
+  - title: A New Security Mechanism Based on SIP in Wireless LAN-3G Integration
+    authors: Hui Lin;  li Xu; <strong><u>Xiaoding Wang</u></strong>
+    journal: 2008 International Symposium on Computer Science and Computational Technology
+    doi: https://doi.org/10.1109/iscsct.2008.23
+    pdf: ./assets/files/1.pdf
+    bibtex: |
+            @inproceedings{lin2008new,
+              title={A New Security Mechanism Based on SIP in Wireless LAN-3G Integration},
+              author={Lin, Hui and Xu, Li and Wang, Xiaoding},
+              booktitle={2008 International Symposium on Computer Science and Computational Technology},
+              volume={1},
+              pages={763--767},
+              year={2008},
+              organization={IEEE}
+            }
+    image: ./assets/teaser/1.png 
+  
+  - title: Strategy and Simulation of Trust Cluster Based Key Management Protocol for Ad hoc Networks
+    authors: Li Xu; <strong><u>Xiaoding Wang</u></strong>; Jinbo Shen
+    journal: 2009 4th International Conference on Computer Science & Education
+    doi: https://doi.org/10.1109/ICCSE.2009.5228445
+    pdf: ./assets/files/2.pdf
+    bibtex: |
+            @inproceedings{xu2009strategy,
+            title={Strategy and simulation of trust cluster based key management protocol for ad hoc networks},
+            author={Xu, Li and Wang, Xiaoding and Shen, Jinbo},
+            booktitle={2009 4th International Conference on Computer Science \& Education},
+            pages={269--274},
+            year={2009},
+            organization={IEEE}
+            }
+    image: ./assets/teaser/2.png 
