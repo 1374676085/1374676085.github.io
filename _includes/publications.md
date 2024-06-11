@@ -6,7 +6,7 @@
 <!-- Articles Section -->
 <div class="publications">
 <ol class="bibliography">
-
+{% assign counter = 1 %}
 {% for link in site.data.publications.main %}
 {% if link.type == "1" %}
 
@@ -47,6 +47,7 @@
 </li>
 <br>
 
+{% assign counter = counter | plus: 1 %}
 {% endif %}
 {% endfor %}
 </ol>
@@ -56,6 +57,7 @@
 <h3 class="conference" style="margin: 20px 0px -20px 20px; font-size: 20px">Conferences</h3>
 <div class="publications">
 <ol class="bibliography">
+{% assign counter = 1 %}
 {% for link in site.data.publications.main %}
 {% if link.type == "2" %}
 <li>
@@ -90,6 +92,7 @@
 </li>
 <br>
 
+{% assign counter = counter | plus: 1 %}
 {% endif %}
 {% endfor %}
 </ol>
