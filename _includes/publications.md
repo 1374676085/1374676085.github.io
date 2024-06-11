@@ -17,7 +17,7 @@
             <abbr class="badge">{{ link.conference_short }} {{ link.journal_short}}</abbr>
   </div> -->
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.doi }}">{{ link.title }}</a></div>
+      <div class="title"><span>{{ counter }}. </span><a href="{{ link.doi }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference}} {{link.journal}}</em>
       </div>
@@ -63,7 +63,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.doi }}">{{ link.title }}</a></div>
+      <div class="title"><span>{{ counter }}. </span><a href="{{ link.doi }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference}} {{link.journal}}</em>
       </div>
