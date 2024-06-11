@@ -189,7 +189,7 @@ main:
     journal: IEEE Transactions on Industrial Informatics <strong>(TII)</strong>
     pdf: ./assets/files/51.pdf
     doi: https://doi.org/10.1109/tii.2022.3189439
-    type: "2"
+    type: "1"
     bibtex: | 
             @article{wang2022privacy,
               title={A privacy-enhanced multiarea task allocation strategy for healthcare 4.0},
@@ -209,7 +209,7 @@ main:
     journal: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>
     pdf: ./assets/files/50.pdf
     doi: https://doi.org/10.1109/tits.2022.3209903
-    type: "2"
+    type: "1"
     bibtex: | 
             @article{wang2022ai,
               title={AI-empowered trajectory anomaly detection for intelligent transportation systems: A hierarchical federated learning approach},
