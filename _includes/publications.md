@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=zigGlzAAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
+<h2 style="margin: 60px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=S5XsBUMAAAAJ&hl=en&oi=ao" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px; margin-left: 10px;">[</temp><a href="https://orcid.org/0000-0002-0494-3538" target="_blank" style="font-size:15px;">Orcid</a><temp style="font-size:15px;">]</temp></h2>
 
 <h3 class="article" style="margin: 20px 0px -20px 20px; font-size: 20px">Articles</h3>
 <!-- Articles Section -->
