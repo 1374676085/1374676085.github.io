@@ -15,7 +15,7 @@ main:
               year={2024},
               publisher={Elsevier}
             }
-    image: ./assets/teaser/inffus-causal.png
+    #image: ./assets/teaser/inffus-causal.png
     notes: SCI-1区
 
   - title: A Multi-Modal Spatial-Temporal Model for Accurate Motion Forecasting with Visual Fusion
@@ -33,7 +33,7 @@ main:
               year={2024},
               publisher={Elsevier}
             }
-    image: ./assets/teaser/inffus-motion.png
+    #image: ./assets/teaser/inffus-motion.png
     notes: SCI-1区
 
   - title: "GSAA: A Novel Graph Spatiotemporal Attention Algorithm for Smart City Traffic Prediction"
@@ -50,173 +50,77 @@ main:
             year={2023},
             publisher={ACM New York, NY}
             }
-    image: ./assets/teaser/acm-tosn.png 
+    #image: ./assets/teaser/acm-tosn.png 
     notes: CCF-B
 
-  - title: A Cooperative Secure Routing Protocol based on Reputation System for Ad Hoc Networks
-    authors: Yihui Zhang; li Xu; <strong><u>Xiaoding Wang</u></strong>
-    journal_short: J. Commun. 
-    journal: JOURNAL OF COMMUNICATIONS <strong>(J. Commun.)</strong>, 2024.
-    pdf: https://www.jocm.us/uploadfile/2013/0607/20130607023933568.pdf
-    bibtex: | 
-            @article{zhang2008cooperative,
-              title={A Cooperative Secure Routing Protocol based on Reputation System for Ad Hoc Networks.},
-              author={Zhang, Yihui and Xu, Li and Wang, Xiaoding},
-              journal={J. Commun.},
-              volume={3},
-              number={6},
-              pages={43--50},
-              year={2008}
+  - title: An intelligent UAV based data aggregation strategy for IoT after disaster scenarios
+    authors: <strong><u>Xiaoding Wang</u></strong>; Jia Hu; Hui Lin
+    journal: "DroneCom: Proceedings of the MobiCom Workshop on Drone Assisted Wireless Communications for 5G and Beyond"
+    doi: https://doi.org/10.1145/3414045.3415940
+    pdf: ./assets/files/13.pdf
+    bibtex: |
+            @inproceedings{wang2020intelligent,
+            title={An intelligent UAV based data aggregation strategy for IoT after disaster scenarios},
+            author={Wang, Xiaoding and Hu, Jia and Lin, Hui},
+            booktitle={Proceedings of the 2nd ACM MobiCom Workshop on Drone Assisted Wireless Communications for 5G and beyond},
+            pages={97--101},
+            year={2020}
             }
-    image: ./assets/teaser/100.png
+    #image: ./assets/teaser/13.png 
 
-  - title: A New Security Mechanism Based on SIP in Wireless LAN-3G Integration
-    authors: Hui Lin;  li Xu; <strong><u>Xiaoding Wang</u></strong>
-    journal: 2008 International Symposium on Computer Science and Computational Technology
-    doi: https://doi.org/10.1109/iscsct.2008.23
-    pdf: ./assets/files/1.pdf
+  - title: Learning-Based IoT Data Aggregation for Disaster Scenarios
+    authors: Min Peng; Sahil Garg; <strong><u>Xiaoding Wang</u></strong>; Hui Lin; M. Shamim Hossain
+    journal_short: ACCESS
+    journal: IEEE Access
+    doi: https://doi.org/10.1109/access.2020.3008289
+    pdf: ./assets/files/12.pdf
     bibtex: |
-            @inproceedings{lin2008new,
-              title={A New Security Mechanism Based on SIP in Wireless LAN-3G Integration},
-              author={Lin, Hui and Xu, Li and Wang, Xiaoding},
-              booktitle={2008 International Symposium on Computer Science and Computational Technology},
-              volume={1},
-              pages={763--767},
-              year={2008},
-              organization={IEEE}
+            @article{peng2020learning,
+            title={Learning-based IoT data aggregation for disaster scenarios},
+            author={Peng, Min and Garg, Sahil and Wang, Xiaoding and Bradai, Abbas and Lin, Hui and Hossain, M Shamim},
+            journal={IEEE Access},
+            volume={8},
+            pages={128490--128497},
+            year={2020},
+            publisher={IEEE}
             }
-    image: ./assets/teaser/1.png 
-  
-  - title: Strategy and Simulation of Trust Cluster Based Key Management Protocol for Ad hoc Networks
-    authors: Li Xu; <strong><u>Xiaoding Wang</u></strong>; Jinbo Shen
-    journal: 2009 4th International Conference on Computer Science & Education
-    doi: https://doi.org/10.1109/ICCSE.2009.5228445
-    pdf: ./assets/files/2.pdf
-    bibtex: |
-            @inproceedings{xu2009strategy,
-            title={Strategy and simulation of trust cluster based key management protocol for ad hoc networks},
-            author={Xu, Li and Wang, Xiaoding and Shen, Jinbo},
-            booktitle={2009 4th International Conference on Computer Science \& Education},
-            pages={269--274},
-            year={2009},
-            organization={IEEE}
-            }
-    image: ./assets/teaser/2.png 
-
-  - title: Restoration Strategy Based on Optimal Relay Node Placement in Wireless Sensor Networks
-    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou
-    journal_short: IJDSN
-    journal: International Journal of Distributed Sensor Networks
-    doi: https://doi.org/10.1155/2015/409085
-    pdf: ./assets/files/3.pdf
-    bibtex: |
-            @article{wang2015restoration,
-            title={Restoration strategy based on optimal relay node placement in wireless sensor networks},
-            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming},
-            journal={International Journal of Distributed Sensor Networks},
-            volume={11},
-            number={7},
-            pages={409085},
-            year={2015},
-            publisher={SAGE Publications Sage UK: London, England}
-            }
-    image: ./assets/teaser/3.png 
-    notes: SCI-4区
-
-  - title: A Resolving Set based Algorithm for Fault Identification in Wireless Mesh Networks
-    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou; Joseph K. Liu
-    journal_short: J.UCS
-    journal: Journal of Universal Computer Science
-    doi: https://www.jucs.org/jucs_21_3/a_resolving_set_based/jucs_21_03_0384_0405_wang.pdf
-    pdf: ./assets/files/4.pdf
-    bibtex: |
-            @article{wang2015resolving,
-            title={A resolving set based algorithm for fault identification in wireless mesh networks},
-            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming and Liu, Joseph K},
-            journal={Journal of Universal Computer Science},
-            volume={21},
-            number={3},
-            pages={384--405},
-            year={2015},
-            publisher={Graz University of Technology}
-            }
-    image: ./assets/teaser/4.png 
-    notes: SCI-4区
-
-  - title: A Privacy-Preserving Approach Based on Graph Partition for Uncertain Trajectory Publishing
-    authors: Jianchuan Xiao; Li Xu; Limei Lin; <strong><u>Xiaoding Wang</u></strong>
-    journal_short: ISPDC
-    journal: 2016 15th International Symposium on Parallel and Distributed Computing <strong>(ISPDC))</strong>
-    doi: https://doi.org/10.1109/ispdc.2016.48
-    pdf: ./assets/files/5.pdf
-    bibtex: |
-            @inproceedings{xiao2016privacy,
-            title={A privacy-preserving approach based on graph partition for uncertain trajectory publishing},
-            author={Xiao, Jianchuan and Xu, Li and Lin, Limei and Wang, Xiaoding},
-            booktitle={2016 15th International Symposium on Parallel and Distributed Computing (ISPDC)},
-            pages={285--290},
-            year={2016},
-            organization={IEEE}
-            }
-    image: ./assets/teaser/5.png 
-
-  - title: Hybrid Recovery Strategy Based on Random Terrain in Wireless Sensor Networks
-    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou; Wei Wu
-    journal_short: J.UCS
-    journal: SCI Programming
-    doi: https://doi.org/10.1155/2017/5807289
-    pdf: ./assets/files/6.pdf
-    bibtex: |
-            @article{wang2017hybrid,
-            title={Hybrid recovery strategy based on random terrain in wireless sensor networks},
-            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming and Wu, Wei},
-            journal={Scientific Programming},
-            volume={2017},
-            number={1},
-            pages={5807289},
-            year={2017},
-            publisher={Wiley Online Library}
-            }
-    image: ./assets/teaser/6.png 
-    notes: SCI-4区
-
-  - title: A Straight Skeleton Based Connectivity Restoration Strategy in the Presence of Obstacles for WSNs
-    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou
-    journal_short: Sensors
-    journal: Sensors
-    doi: https://doi.org/10.3390/s17102299
-    pdf: ./assets/files/7.pdf
-    bibtex: |
-            @article{wang2017straight,
-            title={A straight skeleton based connectivity restoration strategy in the presence of obstacles for WSNs},
-            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming},
-            journal={Sensors},
-            volume={17},
-            number={10},
-            pages={2299},
-            year={2017},
-            publisher={MDPI}
-            }
-    image: ./assets/teaser/7.png 
+    #image: ./assets/teaser/12.png 
     notes: SCI-3区
 
-  - title: Extra diagnosability and good-neighbor diagnosability of n-dimensional alternating group graph AG(n) under the PMC model
-    authors: Yanze Huang; Limei Lin; Li Xu; <strong><u>Xiaoding Wang</u></strong>
+  - title: Multi-layer Access Control Mechanism based on Blockchain for Mobile Edge Computing
+    authors: YiChen Hou; WenXin Liu; Hui Lin; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: ISPA/BDCloud/SocialCom/SustainCom
+    journal: Ieee Int Conf on Parallel & Distributed Processing with Applications, Ubiquitous Computing & Communications, Big Data & Cloud Computing, Social Computing & Networking, Sustainable Computing & Communications
+    doi: https://doi.org/10.1109/ispa-bdcloud-socialcom-sustaincom51426.2020.00061
+    pdf: ./assets/files/11.pdf
+    bibtex: |
+            @inproceedings{hou2020multi,
+            title={Multi-layer access control mechanism based on blockchain for mobile edge computing},
+            author={Hou, YiChen and Liu, WenXin and Lin, Hui and Wang, XiaoDing},
+            booktitle={2020 IEEE Intl Conf on Parallel \& Distributed Processing with Applications, Big Data \& Cloud Computing, Sustainable Computing \& Communications, Social Computing \& Networking (ISPA/BDCloud/SocialCom/SustainCom)},
+            pages={285--291},
+            year={2020},
+            organization={IEEE}
+            }
+    #image: ./assets/teaser/11.png   
+  
+  - title: Restricted connectivity and good-neighbor diagnosability of split-star networks
+    authors: Limei Lin; Yanze Huang; <strong><u>Xiaoding Wang</u></strong>; Li Xu
     journal_short: Theor Comput Sci
     journal: Theoretical Computer Science
-    doi: https://doi.org/10.1016/j.tcs.2019.05.034
-    pdf: ./assets/files/8.pdf
+    doi: https://doi.org/10.1016/j.tcs.2020.04.015
+    pdf: ./assets/files/10.pdf
     bibtex: |
-            @article{huang2019extra,
-            title={Extra diagnosability and good-neighbor diagnosability of n-dimensional alternating group graph AGn under the PMC model},
-            author={Huang, Yanze and Lin, Limei and Xu, Li and Wang, Xiaoding},
+            @article{lin2020restricted,
+            title={Restricted connectivity and good-neighbor diagnosability of split-star networks},
+            author={Lin, Limei and Huang, Yanze and Wang, Xiaoding and Xu, Li},
             journal={Theoretical Computer Science},
-            volume={795},
-            pages={36--49},
-            year={2019},
+            volume={824},
+            pages={81--91},
+            year={2020},
             publisher={Elsevier}
             }
-    image: ./assets/teaser/8.png 
+    #image: ./assets/teaser/10.png 
     notes: SCI-4区
 
   - title: Rollout algorithm for light-weight physical-layer authentication in cognitive radio networks
@@ -236,75 +140,171 @@ main:
             year={2020},
             publisher={Wiley Online Library}
             }
-    image: ./assets/teaser/9.png 
+    #image: ./assets/teaser/9.png 
     notes: SCI-4区
 
-  - title: Restricted connectivity and good-neighbor diagnosability of split-star networks
-    authors: Limei Lin; Yanze Huang; <strong><u>Xiaoding Wang</u></strong>; Li Xu
+  - title: Extra diagnosability and good-neighbor diagnosability of n-dimensional alternating group graph AG(n) under the PMC model
+    authors: Yanze Huang; Limei Lin; Li Xu; <strong><u>Xiaoding Wang</u></strong>
     journal_short: Theor Comput Sci
     journal: Theoretical Computer Science
-    doi: https://doi.org/10.1016/j.tcs.2020.04.015
-    pdf: ./assets/files/10.pdf
+    doi: https://doi.org/10.1016/j.tcs.2019.05.034
+    pdf: ./assets/files/8.pdf
     bibtex: |
-            @article{lin2020restricted,
-            title={Restricted connectivity and good-neighbor diagnosability of split-star networks},
-            author={Lin, Limei and Huang, Yanze and Wang, Xiaoding and Xu, Li},
+            @article{huang2019extra,
+            title={Extra diagnosability and good-neighbor diagnosability of n-dimensional alternating group graph AGn under the PMC model},
+            author={Huang, Yanze and Lin, Limei and Xu, Li and Wang, Xiaoding},
             journal={Theoretical Computer Science},
-            volume={824},
-            pages={81--91},
-            year={2020},
+            volume={795},
+            pages={36--49},
+            year={2019},
             publisher={Elsevier}
             }
-    image: ./assets/teaser/10.png 
+    #image: ./assets/teaser/8.png 
     notes: SCI-4区
 
-  - title: Multi-layer Access Control Mechanism based on Blockchain for Mobile Edge Computing
-    authors: YiChen Hou; WenXin Liu; Hui Lin; <strong><u>Xiaoding Wang</u></strong>
-    journal_short: ISPA/BDCloud/SocialCom/SustainCom
-    journal: Ieee Int Conf on Parallel & Distributed Processing with Applications, Ubiquitous Computing & Communications, Big Data & Cloud Computing, Social Computing & Networking, Sustainable Computing & Communications
-    doi: https://doi.org/10.1109/ispa-bdcloud-socialcom-sustaincom51426.2020.00061
-    pdf: ./assets/files/11.pdf
+  - title: A Straight Skeleton Based Connectivity Restoration Strategy in the Presence of Obstacles for WSNs
+    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou
+    journal_short: Sensors
+    journal: Sensors
+    doi: https://doi.org/10.3390/s17102299
+    pdf: ./assets/files/7.pdf
     bibtex: |
-            @inproceedings{hou2020multi,
-            title={Multi-layer access control mechanism based on blockchain for mobile edge computing},
-            author={Hou, YiChen and Liu, WenXin and Lin, Hui and Wang, XiaoDing},
-            booktitle={2020 IEEE Intl Conf on Parallel \& Distributed Processing with Applications, Big Data \& Cloud Computing, Sustainable Computing \& Communications, Social Computing \& Networking (ISPA/BDCloud/SocialCom/SustainCom)},
-            pages={285--291},
-            year={2020},
-            organization={IEEE}
+            @article{wang2017straight,
+            title={A straight skeleton based connectivity restoration strategy in the presence of obstacles for WSNs},
+            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming},
+            journal={Sensors},
+            volume={17},
+            number={10},
+            pages={2299},
+            year={2017},
+            publisher={MDPI}
             }
-    image: ./assets/teaser/11.png 
-
-  - title: Learning-Based IoT Data Aggregation for Disaster Scenarios
-    authors: Min Peng; Sahil Garg; <strong><u>Xiaoding Wang</u></strong>; Hui Lin; M. Shamim Hossain
-    journal_short: ACCESS
-    journal: IEEE Access
-    doi: https://doi.org/10.1109/access.2020.3008289
-    pdf: ./assets/files/12.pdf
-    bibtex: |
-            @article{peng2020learning,
-            title={Learning-based IoT data aggregation for disaster scenarios},
-            author={Peng, Min and Garg, Sahil and Wang, Xiaoding and Bradai, Abbas and Lin, Hui and Hossain, M Shamim},
-            journal={IEEE Access},
-            volume={8},
-            pages={128490--128497},
-            year={2020},
-            publisher={IEEE}
-            }
-    image: ./assets/teaser/12.png 
+    #image: ./assets/teaser/7.png 
     notes: SCI-3区
 
-  - title: An intelligent UAV based data aggregation strategy for IoT after disaster scenarios
-    authors: <strong><u>Xiaoding Wang</u></strong>; Jia Hu; Hui Lin
-    journal: "DroneCom: Proceedings of the MobiCom Workshop on Drone Assisted Wireless Communications for 5G and Beyond"
-    doi: https://doi.org/10.1145/3414045.3415940
-    pdf: ./assets/files/13.pdf
+  - title: Hybrid Recovery Strategy Based on Random Terrain in Wireless Sensor Networks
+    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou; Wei Wu
+    journal_short: J.UCS
+    journal: SCI Programming
+    doi: https://doi.org/10.1155/2017/5807289
+    pdf: ./assets/files/6.pdf
     bibtex: |
-            @inproceedings{wang2020intelligent,
-            title={An intelligent UAV based data aggregation strategy for IoT after disaster scenarios},
-            author={Wang, Xiaoding and Hu, Jia and Lin, Hui},
-            booktitle={Proceedings of the 2nd ACM MobiCom Workshop on Drone Assisted Wireless Communications for 5G and beyond},
-            pages={97--101},
-            year={2020}
+            @article{wang2017hybrid,
+            title={Hybrid recovery strategy based on random terrain in wireless sensor networks},
+            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming and Wu, Wei},
+            journal={Scientific Programming},
+            volume={2017},
+            number={1},
+            pages={5807289},
+            year={2017},
+            publisher={Wiley Online Library}
             }
-    image: ./assets/teaser/13.png 
+    #image: ./assets/teaser/6.png 
+    notes: SCI-4区
+
+  - title: A Privacy-Preserving Approach Based on Graph Partition for Uncertain Trajectory Publishing
+    authors: Jianchuan Xiao; Li Xu; Limei Lin; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: ISPDC
+    journal: 2016 15th International Symposium on Parallel and Distributed Computing <strong>(ISPDC))</strong>
+    doi: https://doi.org/10.1109/ispdc.2016.48
+    pdf: ./assets/files/5.pdf
+    bibtex: |
+            @inproceedings{xiao2016privacy,
+            title={A privacy-preserving approach based on graph partition for uncertain trajectory publishing},
+            author={Xiao, Jianchuan and Xu, Li and Lin, Limei and Wang, Xiaoding},
+            booktitle={2016 15th International Symposium on Parallel and Distributed Computing (ISPDC)},
+            pages={285--290},
+            year={2016},
+            organization={IEEE}
+            }
+    #image: ./assets/teaser/5.png 
+
+  - title: A Resolving Set based Algorithm for Fault Identification in Wireless Mesh Networks
+    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou; Joseph K. Liu
+    journal_short: J.UCS
+    journal: Journal of Universal Computer Science
+    doi: https://www.jucs.org/jucs_21_3/a_resolving_set_based/jucs_21_03_0384_0405_wang.pdf
+    pdf: ./assets/files/4.pdf
+    bibtex: |
+            @article{wang2015resolving,
+            title={A resolving set based algorithm for fault identification in wireless mesh networks},
+            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming and Liu, Joseph K},
+            journal={Journal of Universal Computer Science},
+            volume={21},
+            number={3},
+            pages={384--405},
+            year={2015},
+            publisher={Graz University of Technology}
+            }
+    #image: ./assets/teaser/4.png 
+    notes: SCI-4区
+
+  - title: Restoration Strategy Based on Optimal Relay Node Placement in Wireless Sensor Networks
+    authors: <strong><u>Xiaoding Wang</u></strong>; Li Xu; Shuming Zhou
+    journal_short: IJDSN
+    journal: International Journal of Distributed Sensor Networks
+    doi: https://doi.org/10.1155/2015/409085
+    pdf: ./assets/files/3.pdf
+    bibtex: |
+            @article{wang2015restoration,
+            title={Restoration strategy based on optimal relay node placement in wireless sensor networks},
+            author={Wang, Xiaoding and Xu, Li and Zhou, Shuming},
+            journal={International Journal of Distributed Sensor Networks},
+            volume={11},
+            number={7},
+            pages={409085},
+            year={2015},
+            publisher={SAGE Publications Sage UK: London, England}
+            }
+    #image: ./assets/teaser/3.png 
+    notes: SCI-4区
+
+  - title: Strategy and Simulation of Trust Cluster Based Key Management Protocol for Ad hoc Networks
+    authors: Li Xu; <strong><u>Xiaoding Wang</u></strong>; Jinbo Shen
+    journal: 2009 4th International Conference on Computer Science & Education
+    doi: https://doi.org/10.1109/ICCSE.2009.5228445
+    pdf: ./assets/files/2.pdf
+    bibtex: |
+            @inproceedings{xu2009strategy,
+            title={Strategy and simulation of trust cluster based key management protocol for ad hoc networks},
+            author={Xu, Li and Wang, Xiaoding and Shen, Jinbo},
+            booktitle={2009 4th International Conference on Computer Science \& Education},
+            pages={269--274},
+            year={2009},
+            organization={IEEE}
+            }
+    #image: ./assets/teaser/2.png 
+
+  - title: A New Security Mechanism Based on SIP in Wireless LAN-3G Integration
+    authors: Hui Lin;  li Xu; <strong><u>Xiaoding Wang</u></strong>
+    journal: 2008 International Symposium on Computer Science and Computational Technology
+    doi: https://doi.org/10.1109/iscsct.2008.23
+    pdf: ./assets/files/1.pdf
+    bibtex: |
+            @inproceedings{lin2008new,
+              title={A New Security Mechanism Based on SIP in Wireless LAN-3G Integration},
+              author={Lin, Hui and Xu, Li and Wang, Xiaoding},
+              booktitle={2008 International Symposium on Computer Science and Computational Technology},
+              volume={1},
+              pages={763--767},
+              year={2008},
+              organization={IEEE}
+            }
+    #image: ./assets/teaser/1.png 
+
+  - title: A Cooperative Secure Routing Protocol based on Reputation System for Ad Hoc Networks
+    authors: Yihui Zhang; li Xu; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: J. Commun. 
+    journal: JOURNAL OF COMMUNICATIONS <strong>(J. Commun.)</strong>
+    pdf: https://www.jocm.us/uploadfile/2013/0607/20130607023933568.pdf
+    bibtex: | 
+            @article{zhang2008cooperative,
+              title={A Cooperative Secure Routing Protocol based on Reputation System for Ad Hoc Networks.},
+              author={Zhang, Yihui and Xu, Li and Wang, Xiaoding},
+              journal={J. Commun.},
+              volume={3},
+              number={6},
+              pages={43--50},
+              year={2008}
+            }
+    #image: ./assets/teaser/100.png
