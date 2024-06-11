@@ -3,7 +3,7 @@ main:
     authors: Yuxin Zhang; Limei Lin; Yanze Huang; <strong><u>Xiaoding Wang</u></strong>; Sun-Yuan Hsieh; T. Gadekallu; Md. Jalil Piran
     journal_short: IOT
     journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
-    pdf: 61.pdf
+    pdf: ./assets/files/61.pdf
     doi: https://doi.org/10.1109/jiot.2024.3398023
     bibtex: | 
             @article{zhang2024cooperative,
@@ -19,7 +19,7 @@ main:
     authors: Lingjie Zhang; <strong><u>Xiaoding Wang</u></strong>; Hui Lin; Md. Jalil Piran
     journal_short: EAAI
     journal: Engineering Applications of Artificial Intelligence <strong>(EAAI)</strong>
-    pdf: 60.pdf
+    pdf: ./assets/files/60.pdf
     doi: https://doi.org/10.1016/j.engappai.2023.107797
     bibtex: | 
             @article{zhang2024crowdsourcing,
@@ -37,7 +37,7 @@ main:
     authors: Zihang Zhen; <strong><u>Xiaoding Wang</u></strong>; Hui Lin; Sahil Garg; Prabhat Kumar; M. Shamim Hossain
     journal_short: JNCA
     journal: Journal of Network and Computer Applications <strong>(JNCA)</strong>
-    pdf: 59.pdf
+    pdf: ./assets/files/59.pdf
     doi: https://doi.org/10.1016/j.jnca.2023.103785
     bibtex: | 
             @article{zhen2024dynamic,
@@ -55,7 +55,7 @@ main:
     authors: Ziyi Wan; Limei Lin; Yanze Huang; <strong><u>Xiaoding Wang</u></strong>
     journal_short: J. Chin. Inst. Eng.
     journal: Journal of the Chinese Institute of Engineers <strong>(J. Chin. Inst. Eng.)</strong>
-    pdf: 58.pdf
+    pdf: ./assets/files/58.pdf
     doi: https://doi.org/10.1080/02533839.2024.2308236
     bibtex: | 
             @article{wan2024graph,
@@ -72,7 +72,7 @@ main:
     authors: <strong><u>Xiaoding Wang</u></strong>; Jianmin Liu; Hui Lin; Sahil Garg; Mubarak Alrashoud
     journal_short: Inf. Fusion.
     journal: Information Fusion <strong>(Inf. Fusion.)</strong>
-    pdf: 57.pdf
+    pdf: ./assets/files/57.pdf
     doi: https://doi.org/10.1016/j.inffus.2023.102046
     bibtex: | 
             @article{wang2024multi,
@@ -90,7 +90,7 @@ main:
     authors: Shui Jiang; <strong><u>Xiaoding Wang</u></strong>; Youxiong Que; Hui Lin
     journal_short: JSA
     journal: Journal of Systems Architecture <strong>(JSA)</strong>
-    pdf: 56.pdf
+    pdf: ./assets/files/56.pdf
     doi: https://doi.org/10.1016/j.sysarc.2024.103108
     bibtex: | 
             @article{jiang2024fed,
@@ -108,7 +108,7 @@ main:
     authors: Jianmin Liu; Hui Lin; <strong><u>Xiaoding Wang</u></strong>; Lizhao Wu; Sahil Garg; Mohammad Mehedi Hassan
     journal_short: Inf. Fusion.
     journal: Information Fusion <strong>(Inf. Fusion.)</strong>
-    pdf: 55.pdf
+    pdf: ./assets/files/55.pdf
     doi: https://doi.org/10.1016/j.inffus.2024.102309
     bibtex: | 
             @article{liu2024reliable,
@@ -125,7 +125,7 @@ main:
     authors: Xiuzhen Zhu; Limei Lin; Yanze Huang; <strong><u>Xiaoding Wang</u></strong>; Youxiong Que; Behrouz Jedari; Md. Jalil Piran
     journal_short: IOT
     journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
-    pdf: 54.pdf
+    pdf: ./assets/files/54.pdf
     doi: https://doi.org/10.1109/jiot.2024.3368200
     bibtex: | 
             @article{zhu2024secure,
@@ -141,7 +141,7 @@ main:
     authors: Yanning Ge; Tao Huang; <strong><u>Xiaoding Wang</u></strong>; Guolong Zheng; Xu Yang
     journal_short: Mathematics
     journal: Mathematics
-    pdf: 53.pdf
+    pdf: ./assets/files/53.pdf
     doi: https://doi.org/10.3390/math12020214
     bibtex: | 
             @article{ge2024application,
@@ -160,7 +160,7 @@ main:
     authors: Yangyong Miao; <strong><u>Xiaoding Wang</u></strong>; Hui Lin
     journal_short: ICA3PP
     journal: International Conference On Algorithms And Architectures For Parallel Processing <strong>(ICA3PP)</strong>
-    pdf: 52.pdf
+    pdf: ./assets/files/52.pdf
     doi: https://doi.org/10.1007/978-981-97-0862-8_5
     bibtex: | 
             @inproceedings{miao2023graph,
@@ -177,7 +177,7 @@ main:
     authors: <strong><u>Xiaoding Wang</u></strong>; Mengyao Peng; Hui Lin; Yulei Wu; Xinmin Fan
     journal_short: TII
     journal: IEEE Transactions on Industrial Informatics <strong>(TII)</strong>
-    pdf: 51.pdf
+    pdf: ./assets/files/51.pdf
     doi: https://doi.org/10.1109/tii.2022.3189439
     bibtex: | 
             @article{wang2022privacy,
@@ -196,7 +196,7 @@ main:
     authors: <strong><u>Xiaoding Wang</u></strong>; Wenxin Liu; Hui Lin; Jia Hu; Kuljeet Kaur; M. Shamim Hossain
     journal_short: TITS
     journal: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>
-    pdf: 50.pdf
+    pdf: ./assets/files/50.pdf
     doi: https://doi.org/10.1109/tits.2022.3209903
     bibtex: | 
             @article{wang2022ai,
@@ -210,6 +210,8 @@ main:
               publisher={IEEE}
             }
     notes: SCI-1区 Top, CCF B
+
+
 
   - title: An intelligent UAV based data aggregation strategy for IoT after disaster scenarios
     authors: <strong><u>Xiaoding Wang</u></strong>; Jia Hu; Hui Lin
