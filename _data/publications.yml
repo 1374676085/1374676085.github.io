@@ -1,30 +1,81 @@
 main:
-  - title: Reliable trajectory prediction in scene fusion based on spatio-temporal Structure Causal Model
-    authors: <strong><u>Jianmin Liu</u></strong>; Hui Lin*; Xiaoding Wang;  Sahil Garg*; Mohammad Mehedi Hassan(*Corresponding authors)
-    journal_short: INFFUS
-    journal: Information Fusion <strong>(INFFUS)</strong>, 2024.
-    doi: https://www.baidu.com/
-    pdf: https://doi.org/10.1016/j.inffus.2024.102309
+  - title: A Cooperative Vehicle-Road System for Anomaly Detection on Vehicle Tracks With Augmented Intelligence of Things
+    authors: Yuxin Zhang; Limei Lin; Yanze Huang; <strong><u>Xiaoding Wang</u></strong>; Sun-Yuan Hsieh; T. Gadekallu; Md. Jalil Piran
+    journal_short: IOT
+    journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
+    pdf: 61.pdf
+    doi: https://doi.org/10.1109/jiot.2024.3398023
     bibtex: | 
-            @article{liu2024reliable,
-              title={Reliable trajectory prediction in scene fusion based on spatio-temporal Structure Causal Model},
-              author={Liu, Jianmin and Lin, Hui and Wang, Xiaoding and Wu, Lizhao and Garg, Sahil and Hassan, Mohammad Mehedi},
-              journal={Information Fusion},
-              volume={102},
-              pages={102309},
+            @article{zhang2024cooperative,
+              title={A Cooperative Vehicle-Road System for Anomaly Detection on Vehicle Tracks With Augmented Intelligence of Things},
+              author={Zhang, Yuxin and Lin, Limei and Huang, Yanze and Wang, Xiaoding and Hsieh, Sun-Yuan and Gadekallu, T and Piran, Md Jalil},
+              journal={IEEE Internet of Things Journal},
+              year={2024},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 Top, CCF C 
+
+  - title: A crowdsourcing logistics solution based on digital twin and four-party evolutionary game
+    authors: Lingjie Zhang; <strong><u>Xiaoding Wang</u></strong>; Hui Lin; Md. Jalil Piran
+    journal_short: EAAI
+    journal: Engineering Applications of Artificial Intelligence <strong>(EAAI)</strong>
+    pdf: 60.pdf
+    doi: https://doi.org/10.1016/j.engappai.2023.107797
+    bibtex: | 
+            @article{zhang2024crowdsourcing,
+              title={A crowdsourcing logistics solution based on digital twin and four-party evolutionary game},
+              author={Zhang, Lingjie and Wang, Xiaoding and Lin, Hui and Piran, Md Jalil},
+              journal={Engineering Applications of Artificial Intelligence},
+              volume={130},
+              pages={107797},
               year={2024},
               publisher={Elsevier}
             }
-    #image: ./assets/teaser/inffus-causal.png
-    notes: SCI-1区
+    notes: SCI-2区 Top, CCF C 
 
-  - title: A Multi-Modal Spatial-Temporal Model for Accurate Motion Forecasting with Visual Fusion
-    authors: Xiaoding Wang; <strong><u>Jianmin Liu</u></strong>; Hui Lin*; Sahil Garg*; Mubarak Alrashoud (*Corresponding authors)
-    journal_short: INFFUS
-    journal: Information Fusion <strong>(INFFUS)</strong>, 2024.
-    pdf: https://doi.org/10.1016/j.inffus.2023.102046
+  - title: A dynamic state sharding blockchain architecture for scalable and secure crowdsourcing systems
+    authors: Zihang Zhen; <strong><u>Xiaoding Wang</u></strong>; Hui Lin; Sahil Garg; Prabhat Kumar; M. Shamim Hossain
+    journal_short: JNCA
+    journal: Journal of Network and Computer Applications <strong>(JNCA)</strong>
+    pdf: 59.pdf
+    doi: https://doi.org/10.1016/j.jnca.2023.103785
     bibtex: | 
-            @article{wang2024multi, 
+            @article{zhen2024dynamic,
+              title={A dynamic state sharding blockchain architecture for scalable and secure crowdsourcing systems},
+              author={Zhen, Zihang and Wang, Xiaoding and Lin, Hui and Garg, Sahil and Kumar, Prabhat and Hossain, M Shamim},
+              journal={Journal of Network and Computer Applications},
+              volume={222},
+              pages={103785},
+              year={2024},
+              publisher={Elsevier}
+            }
+    notes: SCI-2区, CCF C 
+
+  - title: A graph neural network based fault diagnosis strategy for power communication networks
+    authors: Ziyi Wan; Limei Lin; Yanze Huang; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: J. Chin. Inst. Eng.
+    journal: Journal of the Chinese Institute of Engineers <strong>(J. Chin. Inst. Eng.)</strong>
+    pdf: 58.pdf
+    doi: https://doi.org/10.1080/02533839.2024.2308236
+    bibtex: | 
+            @article{wan2024graph,
+              title={A graph neural network based fault diagnosis strategy for power communication networks},
+              author={Wan, Ziyi and Lin, Limei and Huang, Yanze and Wang, Xiaoding},
+              journal={Journal of the Chinese Institute of Engineers},
+              pages={1--10},
+              year={2024},
+              publisher={Taylor \& Francis}
+            }
+    notes: SCI-4区
+
+  - title: A multi-modal spatial-temporal model for accurate motion forecasting with visual fusion
+    authors: <strong><u>Xiaoding Wang</u></strong>; Jianmin Liu; Hui Lin; Sahil Garg; Mubarak Alrashoud
+    journal_short: Inf. Fusion.
+    journal: Information Fusion <strong>(Inf. Fusion.)</strong>
+    pdf: 57.pdf
+    doi: https://doi.org/10.1016/j.inffus.2023.102046
+    bibtex: | 
+            @article{wang2024multi,
               title={A multi-modal spatial--temporal model for accurate motion forecasting with visual fusion},
               author={Wang, Xiaoding and Liu, Jianmin and Lin, Hui and Garg, Sahil and Alrashoud, Mubarak},
               journal={Information Fusion},
@@ -33,25 +84,132 @@ main:
               year={2024},
               publisher={Elsevier}
             }
-    #image: ./assets/teaser/inffus-motion.png
-    notes: SCI-1区
+    notes: SCI-1区 Top
 
-  - title: "GSAA: A Novel Graph Spatiotemporal Attention Algorithm for Smart City Traffic Prediction"
-    authors: <strong><u>Jianmin Liu</u></strong>; Xiaoding Wang;  Hui Lin*; Feng Yu (*Corresponding authors)
-    journal_short: ACM-TOSN
-    journal: ACM Transactions on Sensor Networks <strong>(TOSN)</strong>, 2023.
-    doi: https://doi.org/10.1145/3631608
-    pdf: ./assets/files/1000.pdf
-    bibtex: |
-            @article{liu2023gsaa,
-            title={GSAA: A Novel Graph Spatiotemporal Attention Algorithm for Smart City Traffic Prediction},
-            author={Liu, Jianmin and Wang, Xiaoding and Lin, Hui and Yu, Feng},
-            journal={ACM Transactions on Sensor Networks},
-            year={2023},
-            publisher={ACM New York, NY}
+  - title: "Fed-MPS: Federated learning with local differential privacy using model parameter selection for resource-constrained CPS"
+    authors: Shui Jiang; <strong><u>Xiaoding Wang</u></strong>; Youxiong Que; Hui Lin
+    journal_short: JSA
+    journal: Journal of Systems Architecture <strong>(JSA)</strong>
+    pdf: 56.pdf
+    doi: https://doi.org/10.1016/j.sysarc.2024.103108
+    bibtex: | 
+            @article{jiang2024fed,
+              title={Fed-MPS: Federated learning with local differential privacy using model parameter selection for resource-constrained CPS},
+              author={Jiang, Shui and Wang, Xiaoding and Que, Youxiong and Lin, Hui},
+              journal={Journal of Systems Architecture},
+              volume={150},
+              pages={103108},
+              year={2024},
+              publisher={Elsevier}
             }
-    #image: ./assets/teaser/acm-tosn.png 
-    notes: CCF-B
+    notes: SCI-2区, CCF B
+
+  - title: Reliable trajectory prediction in scene fusion based on spatio-temporal Structure Causal Model
+    authors: Jianmin Liu; Hui Lin; <strong><u>Xiaoding Wang</u></strong>; Lizhao Wu; Sahil Garg; Mohammad Mehedi Hassan
+    journal_short: Inf. Fusion.
+    journal: Information Fusion <strong>(Inf. Fusion.)</strong>
+    pdf: 55.pdf
+    doi: https://doi.org/10.1016/j.inffus.2024.102309
+    bibtex: | 
+            @article{liu2024reliable,
+              title={Reliable trajectory prediction in scene fusion based on spatio-temporal Structure Causal Model},
+              author={Liu, Jianmin and Lin, Hui and Wang, Xiaoding and Wu, Lizhao and Garg, Sahil and Hassan, Mohammad Mehedi},
+              journal={Information Fusion},
+              pages={102309},
+              year={2024},
+              publisher={Elsevier}
+            }
+    notes: SCI-1区 Top
+
+  - title: Secure Data Transmission Based On Reinforcement Learning and Position Confusion for Internet of UAVs
+    authors: Xiuzhen Zhu; Limei Lin; Yanze Huang; <strong><u>Xiaoding Wang</u></strong>; Youxiong Que; Behrouz Jedari; Md. Jalil Piran
+    journal_short: IOT
+    journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
+    pdf: 54.pdf
+    doi: https://doi.org/10.1109/jiot.2024.3368200
+    bibtex: | 
+            @article{zhu2024secure,
+              title={Secure Data Transmission Based On Reinforcement Learning and Position Confusion for Internet of UAVs},
+              author={Zhu, Xiuzhen and Lin, Limei and Huang, Yanze and Wang, Xiaoding and Que, Youxiong and Jedari, Behrouz and Piran, Md Jalil},
+              journal={IEEE Internet of Things Journal},
+              year={2024},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 Top, CCF C
+
+  - title: The Application of Residual Connection-Based State Normalization Method in GAIL
+    authors: Yanning Ge; Tao Huang; <strong><u>Xiaoding Wang</u></strong>; Guolong Zheng; Xu Yang
+    journal_short: Mathematics
+    journal: Mathematics
+    pdf: 53.pdf
+    doi: https://doi.org/10.3390/math12020214
+    bibtex: | 
+            @article{ge2024application,
+              title={The Application of Residual Connection-Based State Normalization Method in GAIL},
+              author={Ge, Yanning and Huang, Tao and Wang, Xiaoding and Zheng, Guolong and Yang, Xu},
+              journal={Mathematics},
+              volume={12},
+              number={2},
+              pages={214},
+              year={2024},
+              publisher={MDPI}
+            }
+    notes: SCI-3区
+
+  - title: A Graph Generation Network with Privacy Preserving Capabilities
+    authors: Yangyong Miao; <strong><u>Xiaoding Wang</u></strong>; Hui Lin
+    journal_short: ICA3PP
+    journal: International Conference On Algorithms And Architectures For Parallel Processing <strong>(ICA3PP)</strong>
+    pdf: 52.pdf
+    doi: https://doi.org/10.1007/978-981-97-0862-8_5
+    bibtex: | 
+            @inproceedings{miao2023graph,
+              title={A Graph Generation Network with Privacy Preserving Capabilities},
+              author={Miao, Yangyong and Wang, Xiaoding and Lin, Hui},
+              booktitle={International Conference on Algorithms and Architectures for Parallel Processing},
+              pages={67--79},
+              year={2023},
+              organization={Springer}
+            }
+    notes: CCF C
+
+  - title: A Privacy-Enhanced Multiarea Task Allocation Strategy for Healthcare 4.0
+    authors: <strong><u>Xiaoding Wang</u></strong>; Mengyao Peng; Hui Lin; Yulei Wu; Xinmin Fan
+    journal_short: TII
+    journal: IEEE Transactions on Industrial Informatics <strong>(TII)</strong>
+    pdf: 51.pdf
+    doi: https://doi.org/10.1109/tii.2022.3189439
+    bibtex: | 
+            @article{wang2022privacy,
+              title={A privacy-enhanced multiarea task allocation strategy for healthcare 4.0},
+              author={Wang, Xiaoding and Peng, Mengyao and Lin, Hui and Wu, Yulei and Fan, Xinmin},
+              journal={IEEE Transactions on Industrial Informatics},
+              volume={19},
+              number={3},
+              pages={2740--2748},
+              year={2022},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 Top, CCF C
+
+  - title: "AI-Empowered Trajectory Anomaly Detection for Intelligent Transportation Systems: A Hierarchical Federated Learning Approach"
+    authors: <strong><u>Xiaoding Wang</u></strong>; Wenxin Liu; Hui Lin; Jia Hu; Kuljeet Kaur; M. Shamim Hossain
+    journal_short: TITS
+    journal: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>
+    pdf: 50.pdf
+    doi: https://doi.org/10.1109/tits.2022.3209903
+    bibtex: | 
+            @article{wang2022ai,
+              title={AI-empowered trajectory anomaly detection for intelligent transportation systems: A hierarchical federated learning approach},
+              author={Wang, Xiaoding and Liu, Wenxin and Lin, Hui and Hu, Jia and Kaur, Kuljeet and Hossain, M Shamim},
+              journal={IEEE Transactions on Intelligent Transportation Systems},
+              volume={24},
+              number={4},
+              pages={4631--4640},
+              year={2022},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 Top, CCF B
 
   - title: An intelligent UAV based data aggregation strategy for IoT after disaster scenarios
     authors: <strong><u>Xiaoding Wang</u></strong>; Jia Hu; Hui Lin
@@ -292,19 +450,3 @@ main:
             }
     #image: ./assets/teaser/1.png 
 
-  - title: A Cooperative Secure Routing Protocol based on Reputation System for Ad Hoc Networks
-    authors: Yihui Zhang; li Xu; <strong><u>Xiaoding Wang</u></strong>
-    journal_short: J. Commun. 
-    journal: JOURNAL OF COMMUNICATIONS <strong>(J. Commun.)</strong>
-    pdf: https://www.jocm.us/uploadfile/2013/0607/20130607023933568.pdf
-    bibtex: | 
-            @article{zhang2008cooperative,
-              title={A Cooperative Secure Routing Protocol based on Reputation System for Ad Hoc Networks.},
-              author={Zhang, Yihui and Xu, Li and Wang, Xiaoding},
-              journal={J. Commun.},
-              volume={3},
-              number={6},
-              pages={43--50},
-              year={2008}
-            }
-    #image: ./assets/teaser/100.png
