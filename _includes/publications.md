@@ -7,6 +7,7 @@
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
+{% if link.type == "1" %}
 
 <li>
 <div class="pub-row">
@@ -45,6 +46,7 @@
 </li>
 <br>
 
+{% endif %}
 {% endfor %}
 </ol>
 </div>
