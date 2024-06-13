@@ -519,6 +519,84 @@ main:
             }
     notes: SCI-1区 Top
 
+  - title: Privacy-Enhanced Data Fusion for Federated Learning Empowered Internet of Things
+    authors: Qingxin Lin; Kuai Xu; Yikun Huang; Feng Yu; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: Mob. Inf. Syst.
+    journal: Mobile Information Systems <strong>(Mob. Inf. Syst.)</strong>
+    pdf: ./assets/files/34.pdf
+    doi: https://doi.org/10.1155/2022/3850246
+    type: "1"
+    bibtex: | 
+            @article{lin2022privacy,
+              title={Privacy-Enhanced Data Fusion for Federated Learning Empowered Internet of Things},
+              author={Lin, Qingxin and Xu, Kuai and Huang, Yikun and Yu, Feng and Wang, Xiaoding},
+              journal={Mobile information systems},
+              volume={2022},
+              number={1},
+              pages={3850246},
+              year={2022},
+              publisher={Wiley Online Library}
+            }
+    notes: SCI-4区
+
+  - title: "QoS and Privacy-Aware Routing for 5G-Enabled Industrial Internet of Things: A Federated Reinforcement Learning Approach"
+    authors: <strong><u>Xiaoding Wang</u></strong>; Jia Hu; Hui Lin; Sahil Garg; Georges Kaddoum; Md. Jalil Piran; M. Shamim Hossain
+    journal_short: TII
+    journal: IEEE Transactions on Industrial Informatics <strong>(TII)</strong>
+    pdf: ./assets/files/33.pdf
+    doi: https://doi.org/10.1109/tii.2021.3124848
+    type: "1"
+    bibtex: | 
+            @article{wang2021qos,
+              title={QoS and privacy-aware routing for 5G-enabled industrial internet of things: A federated reinforcement learning approach},
+              author={Wang, Xiaoding and Hu, Jia and Lin, Hui and Garg, Sahil and Kaddoum, Georges and Piran, Md Jalil and Hossain, M Shamim},
+              journal={IEEE Transactions on Industrial Informatics},
+              volume={18},
+              number={6},
+              pages={4189--4197},
+              year={2021},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 Top, CCF C
+
+  - title: Toward Accurate Anomaly Detection in Industrial Internet of Things Using Hierarchical Federated Learning
+    authors: <strong><u>Xiaoding Wang</u></strong>; Sahil Garg; Hui Lin; Jia Hu; Georges Kaddoum; Md. Jalil Piran
+    journal_short: IOT
+    journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
+    pdf: ./assets/files/32.pdf
+    doi: https://doi.org/10.1109/jiot.2021.3074382
+    type: "1"
+    bibtex: | 
+            @article{wang2021toward,
+              title={Toward accurate anomaly detection in industrial internet of things using hierarchical federated learning},
+              author={Wang, Xiaoding and Garg, Sahil and Lin, Hui and Hu, Jia and Kaddoum, Georges and Piran, Md Jalil and Hossain, M Shamim},
+              journal={IEEE Internet of Things Journal},
+              volume={9},
+              number={10},
+              pages={7110--7119},
+              year={2021},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 Top, CCF C
+
+  - title: A Mobile Crowd Sensing Ecosystem based on Fog Computing Infrastructure
+    authors: Liwei Lin; Xia Lin; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: IUCC/CIT/DSCI/SmartCNS
+    journal: 2021 20th International Conference on Ubiquitous Computing and Communications <strong>(IUCC/CIT/DSCI/SmartCNS)</strong>
+    pdf: ./assets/files/31.pdf
+    doi: https://doi.org/10.1109/iucc-cit-dsci-smartcns55181.2021.00030
+    type: "2"
+    bibtex: | 
+            @inproceedings{lin2021mobile,
+              title={A mobile crowd sensing ecosystem based on fog computing infrastructure},
+              author={Lin, Liwei and Lin, Xia and Wang, Xiaoding},
+              booktitle={2021 20th International Conference on Ubiquitous Computing and Communications (IUCC/CIT/DSCI/SmartCNS)},
+              pages={108--115},
+              year={2021},
+              organization={IEEE}
+            }
+    notes: EI
+
   - title: An intelligent UAV based data aggregation strategy for IoT after disaster scenarios
     authors: <strong><u>Xiaoding Wang</u></strong>; Jia Hu; Hui Lin
     journal: "DroneCom: Proceedings of the MobiCom Workshop on Drone Assisted Wireless Communications for 5G and Beyond"
