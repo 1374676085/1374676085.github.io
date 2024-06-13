@@ -441,7 +441,7 @@ main:
     notes: SCI-2区
 
   - title: A Secure Data Aggregation Strategy in Edge Computing and Blockchain-Empowered Internet of Things
-    authors: <strong><u>Xiaoding Wang</u></strong>; Sahil Garg; Sahil Garg; Georges Kaddoum; Jia Hu; M. Shamim Hossain
+    authors: <strong><u>Xiaoding Wang</u></strong>; Sahil Garg; Hui Lin; Georges Kaddoum; Jia Hu; M. Shamim Hossain
     journal_short: IOT
     journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
     pdf: ./assets/files/37.pdf
@@ -460,7 +460,64 @@ main:
             }
     notes: SCI-1区 Top, CCF C
 
+  - title: A Secure Data Aggregation Strategy in Edge Computing and Blockchain-Empowered Internet of Things
+    authors: <strong><u>Xiaoding Wang</u></strong>; Sahil Garg; Hui Lin; Georges Kaddoum; Jia Hu; M. Shamim Hossain
+    journal_short: IOT
+    journal: IEEE Internet of Things Journal <strong>(IOT)</strong>
+    pdf: ./assets/files/36.pdf
+    doi: https://doi.org/10.1109/jiot.2020.3023588
+    type: "1"
+    bibtex: | 
+            @article{wang2020secure,
+              title={A secure data aggregation strategy in edge computing and blockchain-empowered internet of things},
+              author={Wang, Xiaoding and Garg, Sahil and Lin, Hui and Kaddoum, Georges and Hu, Jia and Hossain, M Shamim},
+              journal={IEEE Internet of Things Journal},
+              volume={9},
+              number={16},
+              pages={14237--14246},
+              year={2020},
+              publisher={IEEE}
+            }
+    notes: SCI-1区 Top, CCF C
 
+  - title: An intelligent and privacy-enhanced data sharing strategy for blockchain-empowered Internet of Things
+    authors: Qinyang Miao; Hui Lin; Jia Hu; <strong><u>Xiaoding Wang</u></strong>
+    journal_short: DCN
+    journal: Digital Communications and Networks <strong>(DCN)</strong>
+    pdf: ./assets/files/35.pdf
+    doi: https://doi.org/10.1016/j.dcan.2021.12.007
+    type: "1"
+    bibtex: | 
+            @article{miao2022intelligent,
+              title={An intelligent and privacy-enhanced data sharing strategy for blockchain-empowered Internet of Things},
+              author={Miao, Qinyang and Lin, Hui and Hu, Jia and Wang, Xiaoding},
+              journal={Digital Communications and Networks},
+              volume={8},
+              number={5},
+              pages={636--643},
+              year={2022},
+              publisher={Elsevier}
+            }
+    notes: SCI-2区
+
+  - title: Data fusion and transfer learning empowered granular trust evaluation for Internet of Things
+    authors: Hui Lin; Sahil Garg; Jia Hu; <strong><u>Xiaoding Wang</u></strong>; Md. Jalil Piran; M. Shamim Hossain
+    journal_short: Inf. Fusion.
+    journal: Information Fusion <strong>(Inf. Fusion.)</strong>
+    pdf: ./assets/files/34.pdf
+    doi: https://doi.org/10.1016/j.inffus.2021.09.001
+    type: "1"
+    bibtex: | 
+            @article{lin2022data,
+              title={Data fusion and transfer learning empowered granular trust evaluation for Internet of Things},
+              author={Lin, Hui and Garg, Sahil and Hu, Jia and Wang, Xiaoding and Piran, Md Jalil and Hossain, M Shamim},
+              journal={Information Fusion},
+              volume={78},
+              pages={149--157},
+              year={2022},
+              publisher={Elsevier}
+            }
+    notes: SCI-1区 Top
 
   - title: An intelligent UAV based data aggregation strategy for IoT after disaster scenarios
     authors: <strong><u>Xiaoding Wang</u></strong>; Jia Hu; Hui Lin
